@@ -1,0 +1,16 @@
+C:\Users\25965\source\repos\autobackup\autobackup\bin\Debug\net8.0-windows\autobackup.exe
+C:\Users\25965\source\repos\autobackup\autobackup\bin\Debug\net8.0-windows\autobackup.deps.json
+C:\Users\25965\source\repos\autobackup\autobackup\bin\Debug\net8.0-windows\autobackup.runtimeconfig.json
+C:\Users\25965\source\repos\autobackup\autobackup\bin\Debug\net8.0-windows\autobackup.dll
+C:\Users\25965\source\repos\autobackup\autobackup\bin\Debug\net8.0-windows\autobackup.pdb
+C:\Users\25965\source\repos\autobackup\autobackup\obj\Debug\net8.0-windows\autobackup.Form1.resources
+C:\Users\25965\source\repos\autobackup\autobackup\obj\Debug\net8.0-windows\autobackup.vbproj.GenerateResource.cache
+C:\Users\25965\source\repos\autobackup\autobackup\obj\Debug\net8.0-windows\autobackup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25965\source\repos\autobackup\autobackup\obj\Debug\net8.0-windows\autobackup.AssemblyInfoInputs.cache
+C:\Users\25965\source\repos\autobackup\autobackup\obj\Debug\net8.0-windows\autobackup.AssemblyInfo.vb
+C:\Users\25965\source\repos\autobackup\autobackup\obj\Debug\net8.0-windows\autobackup.vbproj.CoreCompileInputs.cache
+C:\Users\25965\source\repos\autobackup\autobackup\obj\Debug\net8.0-windows\autobackup.dll
+C:\Users\25965\source\repos\autobackup\autobackup\obj\Debug\net8.0-windows\refint\autobackup.dll
+C:\Users\25965\source\repos\autobackup\autobackup\obj\Debug\net8.0-windows\autobackup.pdb
+C:\Users\25965\source\repos\autobackup\autobackup\obj\Debug\net8.0-windows\autobackup.genruntimeconfig.cache
+C:\Users\25965\source\repos\autobackup\autobackup\obj\Debug\net8.0-windows\ref\autobackup.dll
